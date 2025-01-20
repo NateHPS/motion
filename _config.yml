@@ -1,11 +1,11 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
+title: Nate Teme
+email: nathantreme@gmail.com
 url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "Web Developer - Graphic Artist - User Experience Designer"
-meta_author: LastName FirstName
+description: "Portfolio for Nate Treme, Motion designer, graphic designer, artist, musician, filmmaker, and game designer based in Shreveport louisiana"
+keywords: "louisiana, design, animation, tunnel goons, ttrpg, role playing games, d&d, blood punch, shreveport"
+skills: "Design - Motion - Illustration - Video"
+meta_author: Treme Nate
 
 # Google webmaster tools
 google_verify:
