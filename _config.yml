@@ -48,8 +48,9 @@ address:
   - line: Shreveport, LA 71104
 
 # Credits content
-credits: <a href="https://natetreme.itch.io/">Itch</a>
-          <a href="https://www.patreon.com/HPS">Patreon</a>
+credits: 
+  - <a href="https://natetreme.itch.io/">Itch</a>
+  - <a href="https://www.patreon.com/HPS">Patreon</a>
 
 # Build settings
 markdown: kramdown
