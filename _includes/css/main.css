@@ -63,7 +63,7 @@ hr.star-light {
 }
 
 hr.star-light:after {
-    color: #000;
+    color: #fff;
     background-color: #{{ site.color.primary }};
 }
 
@@ -87,7 +87,7 @@ header {
 }
 
 header .container {
-    padding-top: 10px;
+    padding-top: 50px;
     padding-bottom: 50px;
 }
 
@@ -100,23 +100,23 @@ header .intro-text .name {
     display: block;
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 2em;
+    font-size: 1.25em;
     font-weight: 700;
 }
 
 header .intro-text .skills {
-    font-size: 1.25em;
+    font-size: 1em;
     font-weight: 300;
 }
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 20px;
+        padding-top: 30px;
         padding-bottom: 10px;
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 2.5em;
     }
 
     header .intro-text .skills {
